@@ -1,7 +1,8 @@
 /* Global Styles */
 body {
-    background-color: white;
+    background-color: white !important;
 }
+
 
 * {
     margin: 0;
